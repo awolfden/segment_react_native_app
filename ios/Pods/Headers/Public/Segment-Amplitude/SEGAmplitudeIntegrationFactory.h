@@ -1,0 +1,1 @@
+../../../Segment-Amplitude/Pod/Classes/SEGAmplitudeIntegrationFactory.h

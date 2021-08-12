@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447181399992",
+    "firebase_url": "https://segment-react-native-test.firebaseio.com",
+    "project_id": "segment-react-native-test",
+    "storage_bucket": "segment-react-native-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447181399992:android:42ab852c3788a00790114d",
+        "android_client_info": {
+          "package_name": "com.reactnativetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447181399992-9vms8nug9q7vippl01576oatbo2qc9ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBjQ2Zv9f-L1jjjG40pubsLXz3N6jbnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447181399992-9vms8nug9q7vippl01576oatbo2qc9ui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447181399992-mv10i4tdu1hm2m41k4c538uldc0sjtvc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactNativeTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
